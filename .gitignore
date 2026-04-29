@@ -1,6 +1,9 @@
 .venv/
 .history/
 PCB/gerbers/temp
+backups/
+netlist.ipc
+fabrication-toolkit-options.json
 
 # KiCAD Auto Generated
 fp-info-cache
