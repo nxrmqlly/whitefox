@@ -5,7 +5,7 @@
 
 ## What's this? ooh shiny.
 
-whitefox is a Raspberry Pi RP2350B based **devboard** with *47 exposed GPIO, a 2x2 neopixel grid, a charging circuit and a MicroSD card reader* onboard!
+whitefox is a Raspberry Pi RP2350B based **devboard** with *47 exposed GPIO, a 3x3 neopixel grid, a charging circuit and a MicroSD card reader* onboard!
 Some may even say that it is *batteries included* but sorry we don't include batteries :(
 
 ## Why?
@@ -52,17 +52,22 @@ yeah that should be enough for an explanation.
 
 ## How to build / use it IRL
 
-1. Spend some \$\$\$ get parts from the [BOM](./BOM/BOM.csv).
-2. With some elbow grease and reference from the schematic, get to soldering the tiny SMD components
-3. You're done! Go crazy
+1. Spend some \$\$\$ get parts from the [BOM](./BOM/BOM.csv)
+2. Use the gerbers from [production/gerbers.zip](production/gerbers.zip) to fabricate a PCB.
+3. With some elbow grease and reference from the schematic, get to soldering the tiny SMD components
+4. You're done! Go crazy
 
 Alternatively, you can preserve your sanity and [get a PCBA service instead.](https://jlcpcb.com)
+1. Gerbers are at [production/gerbers.zip](production/gerbers.zip)
+2. JLCPCB BOM (not project bom!!) is at [production/jlc_bom.csv](production/jlc_bom.csv)
+3. Pick and Place (CPL) file is at [production/positions.csv](production/positions.csv)
 
 ## Credits where credits are due.
 
 Grateful for:
 - [euvalennn's RPBoard^2](https://github.com/euvalennn/rpboard-squared) for a lot of design inspiration and schematic help.
 - [Fallout by hackclub](https://fallout.hackclub.com/) for giving me the oppourtunity and public brand assets!
+- hackclub slack for the coolest people that helped out!
 
 ## License
 

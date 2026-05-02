@@ -1,5 +1,6 @@
 .venv/
 .history/
+.history_trim/
 PCB/gerbers/temp
 backups/
 netlist.ipc

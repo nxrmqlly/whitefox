@@ -12,7 +12,7 @@ AO3401A,1 P-Channel 14nC@10V 30V 47mΩ@10V、60mΩ@4.5V、85mΩ@2.5V 4A 55pF 645
 AOTA-B201610S3R3-101-T,0806 Power Inductors ROHS,1,C42411119,0.29,https://jlcpcb.com/partdetail/AbraconLLC-AOTA_B201610S3R3_101T/C42411119,3.3uH
 KT-0603R,1.8V~2.4V 120° 20mA 300mcd 40mW 615nm~630nm 645nm Discrete Diode Red Water Clear 0603 LED Indication - Discrete ROHS,1,C2286,0.01,https://jlcpcb.com/partdetail/Hubei_KENTOElec-KT0603R/C2286,Red LED
 1N5819WS,SOD-323 Schottky Diodes ROHS,1,C191023,0.01,https://jlcpcb.com/partdetail/GuangdongHottech-1N5819WS/C191023,Diode
-CL05B104KO5NNNC,100nF 16V X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,13,C1525,0.02,https://jlcpcb.com/partdetail/1877-CL05B104KO5NNNC/C1525,100nF
+CL05B104KO5NNNC,100nF 16V X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,22,C1525,0.03,https://jlcpcb.com/partdetail/1877-CL05B104KO5NNNC/C1525,100nF
 CL05A475MP5NRNC,10V 4.7uF X5R ±20% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,4,C23733,0.02,https://jlcpcb.com/partdetail/24469-CL05A475MP5NRNC/C23733,4.7uF
 0402CG330J500NT,33pF 50V C0G ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,2,C1562,0.01,https://jlcpcb.com/partdetail/1914-0402CG330J500NT/C1562,33pF
 CL05A475MP5NRNC,10uF 6.3V X5R ±20% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,6,C15525,0.04,https://jlcpcb.com/partdetail/16204-CL05A106MQ5NUNC/C15525,10uF
@@ -22,13 +22,13 @@ CL05A475MP5NRNC,10uF 6.3V X5R ±20% 0402 Multilayer Ceramic Capacitors MLCC - SM
 0402WGF1002TCE,10kΩ 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS,1,C25744,0.01,https://jlcpcb.com/partdetail/26487-0402WGF1002TCE/C25744,10k ohm
 0402WGF5101TCE,5.1kΩ 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS,3,C25905,0.01,https://jlcpcb.com/partdetail/26648-0402WGF5101TCE/C25905,5.1k ohm
 S2B-PH-K-S(LF)(SN),2mm 4.8mm 5.9mm 7.6mm Brass K Pin PA66 PH Right Angle Tin UL94V-0 White P=2mm Wire To Board Connector ROHS,1,C173752,0.04,https://jlcpcb.com/partdetail/JST-S2B_PH_K_S_LF_SN/C173752,JST Connector PH
-PARTS TOTAL,,,,5.73,,
+PARTS TOTAL,,,,5.74,,
 ,,,,,,
 JLCPCB PCB,"4-layer, 1.6mm, Black",5,,14.9,,
 JLCPCB PCBA,PCB Assembly (Including Parts),2,,86.16,,
-Baking Cost,For LEDs,,,7.29,,
+Baking Cost,,,,7.29,,For LEDs
 HARDWARE TOTAL,,,,108.35,,
 ,,,,,,
-SHIPPING,DHL,,,9.02,,
+SHIPPING,,,,9.02,,
 DISCOUNT,,,,0,,To be added
 GRAND TOTAL,,,,117.37,,

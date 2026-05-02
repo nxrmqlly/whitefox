@@ -7761,6 +7761,12 @@
 		(uuid "dc8b772e-5a95-40a4-8639-ee9a3e821d1b")
 	)
 	(junction
+		(at 255.27 186.69)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "03787283-d52b-4691-9350-490c2f9768ce")
+	)
+	(junction
 		(at 73.66 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7795,12 +7801,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "166e4559-9429-467b-9f05-9ba4a9b8d31e")
-	)
-	(junction
-		(at 255.27 162.56)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1b726c2a-38c2-450a-8eaf-f78fb313e41b")
 	)
 	(junction
 		(at 59.69 247.65)
@@ -7845,12 +7845,6 @@
 		(uuid "33cd057c-7dda-477f-b4b7-68b252bd2961")
 	)
 	(junction
-		(at 255.27 138.43)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "348e019d-42a2-4b89-aa97-37bcb386b0dd")
-	)
-	(junction
 		(at 123.19 33.02)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7869,12 +7863,6 @@
 		(uuid "474fd613-bded-4bed-82c3-4019c025669e")
 	)
 	(junction
-		(at 255.27 186.69)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "47997ee8-8de2-4348-a03d-e7d37ceb25f6")
-	)
-	(junction
 		(at 101.6 40.64)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7891,6 +7879,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4b340742-58ad-4610-b771-652b81816b6b")
+	)
+	(junction
+		(at 254 138.43)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4ce2387d-db51-406a-b59a-4f34f65b306c")
 	)
 	(junction
 		(at 233.68 219.71)
@@ -7929,10 +7923,22 @@
 		(uuid "53fb6660-caa6-4355-a521-ca7ead090b78")
 	)
 	(junction
+		(at 254 162.56)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5581fa77-3017-448c-958e-f4dcbb8e3f29")
+	)
+	(junction
 		(at 185.42 261.62)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "57509653-d8e3-45a6-84d1-2bfa09c1a579")
+	)
+	(junction
+		(at 255.27 162.56)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5795cd24-ec4c-43dc-98af-668b5f7684c7")
 	)
 	(junction
 		(at 85.09 229.87)
@@ -8011,6 +8017,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8af2bdd8-5dec-482c-8655-5cc6202a488f")
+	)
+	(junction
+		(at 307.34 162.56)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8b42c7ac-8b77-4b10-8fbb-27a5b52b61ab")
 	)
 	(junction
 		(at 172.72 33.02)
@@ -8121,6 +8133,12 @@
 		(uuid "c417ec1b-ebc9-4c09-960c-3207a10e3c58")
 	)
 	(junction
+		(at 255.27 138.43)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c5f193be-49d6-42d5-b705-e8ff4a5a92ad")
+	)
+	(junction
 		(at 104.14 40.64)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8143,6 +8161,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cd5271ec-5c5a-4046-aec1-69401648aac8")
+	)
+	(junction
+		(at 254 186.69)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ce6442e3-31e4-40c9-8fcd-1e829ae22bd2")
 	)
 	(junction
 		(at 106.68 40.64)
@@ -8175,6 +8199,12 @@
 		(uuid "df0fcf7b-7997-41ad-9c82-f3982b7769fd")
 	)
 	(junction
+		(at 280.67 138.43)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e0a7d9b1-b5c4-4d63-829c-8431b5169ea2")
+	)
+	(junction
 		(at 170.18 238.76)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8193,10 +8223,28 @@
 		(uuid "e2d0d95a-9316-46d2-9c00-13d09cfd5ae3")
 	)
 	(junction
+		(at 307.34 138.43)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e3a3cc44-6940-4585-96c1-5a9fb43c8981")
+	)
+	(junction
+		(at 307.34 186.69)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ea7cfd22-23cf-41c0-bbfc-7231766268f1")
+	)
+	(junction
 		(at 198.12 194.31)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ee4778f6-08f5-4d08-a12a-d4bb9ebce692")
+	)
+	(junction
+		(at 280.67 162.56)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "eedc4e63-afae-4d50-850c-27c44621cf25")
 	)
 	(junction
 		(at 59.69 242.57)
@@ -8215,6 +8263,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f79ed81d-18ab-4eb8-ae50-5f193123b4d7")
+	)
+	(junction
+		(at 280.67 186.69)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f7cf38a3-f9fb-4a79-824f-eda3ad26319a")
 	)
 	(junction
 		(at 116.84 33.02)
@@ -8400,6 +8454,16 @@
 	)
 	(wire
 		(pts
+			(xy 245.11 194.31) (xy 247.65 194.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "05490b88-2b24-40eb-b9f6-b6fd4be54ba1")
+	)
+	(wire
+		(pts
 			(xy 204.47 146.05) (xy 203.2 146.05)
 		)
 		(stroke
@@ -8520,7 +8584,7 @@
 	)
 	(wire
 		(pts
-			(xy 255.27 138.43) (xy 281.94 138.43)
+			(xy 255.27 138.43) (xy 280.67 138.43)
 		)
 		(stroke
 			(width 0)
@@ -8560,7 +8624,7 @@
 	)
 	(wire
 		(pts
-			(xy 328.93 170.18) (xy 328.93 181.61)
+			(xy 328.93 170.18) (xy 328.93 180.34)
 		)
 		(stroke
 			(width 0)
@@ -8780,7 +8844,7 @@
 	)
 	(wire
 		(pts
-			(xy 247.65 157.48) (xy 247.65 170.18)
+			(xy 245.11 156.21) (xy 245.11 170.18)
 		)
 		(stroke
 			(width 0)
@@ -8790,7 +8854,7 @@
 	)
 	(wire
 		(pts
-			(xy 255.27 186.69) (xy 281.94 186.69)
+			(xy 255.27 186.69) (xy 280.67 186.69)
 		)
 		(stroke
 			(width 0)
@@ -8880,7 +8944,7 @@
 	)
 	(wire
 		(pts
-			(xy 255.27 137.16) (xy 255.27 138.43)
+			(xy 247.65 137.16) (xy 247.65 138.43)
 		)
 		(stroke
 			(width 0)
@@ -9170,7 +9234,7 @@
 	)
 	(wire
 		(pts
-			(xy 255.27 162.56) (xy 281.94 162.56)
+			(xy 255.27 162.56) (xy 280.67 162.56)
 		)
 		(stroke
 			(width 0)
@@ -9210,6 +9274,16 @@
 	)
 	(wire
 		(pts
+			(xy 307.34 138.43) (xy 308.61 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "43576f0a-cc4b-4ff8-80b4-cc12987e7563")
+	)
+	(wire
+		(pts
 			(xy 163.83 40.64) (xy 172.72 40.64)
 		)
 		(stroke
@@ -9217,6 +9291,16 @@
 			(type default)
 		)
 		(uuid "43dd73e6-a5fa-451c-a6d8-21111bf12700")
+	)
+	(wire
+		(pts
+			(xy 280.67 138.43) (xy 281.94 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "447b2ed7-6d10-4846-8c8a-dd78061b2f45")
 	)
 	(wire
 		(pts
@@ -9237,6 +9321,16 @@
 			(type default)
 		)
 		(uuid "4525f33a-917e-48f3-9ba8-13e3ebf9907d")
+	)
+	(wire
+		(pts
+			(xy 307.34 186.69) (xy 308.61 186.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47410b38-9538-4afb-ad99-312c229586f3")
 	)
 	(wire
 		(pts
@@ -9290,7 +9384,7 @@
 	)
 	(wire
 		(pts
-			(xy 281.94 186.69) (xy 308.61 186.69)
+			(xy 281.94 186.69) (xy 307.34 186.69)
 		)
 		(stroke
 			(width 0)
@@ -9340,7 +9434,7 @@
 	)
 	(wire
 		(pts
-			(xy 247.65 181.61) (xy 247.65 194.31)
+			(xy 245.11 180.34) (xy 245.11 194.31)
 		)
 		(stroke
 			(width 0)
@@ -9460,6 +9554,16 @@
 	)
 	(wire
 		(pts
+			(xy 245.11 170.18) (xy 247.65 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "670ccfd9-4484-44a2-ad7d-e46e1b500e22")
+	)
+	(wire
+		(pts
 			(xy 316.23 153.67) (xy 308.61 153.67)
 		)
 		(stroke
@@ -9517,6 +9621,16 @@
 			(type default)
 		)
 		(uuid "699f6da8-d1d3-4bb1-9956-eecd1a543e53")
+	)
+	(wire
+		(pts
+			(xy 254 186.69) (xy 255.27 186.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69e975c4-3887-4c5a-8857-7906397d1a99")
 	)
 	(wire
 		(pts
@@ -9720,7 +9834,7 @@
 	)
 	(wire
 		(pts
-			(xy 327.66 146.05) (xy 327.66 157.48)
+			(xy 327.66 146.05) (xy 327.66 156.21)
 		)
 		(stroke
 			(width 0)
@@ -9800,7 +9914,7 @@
 	)
 	(wire
 		(pts
-			(xy 281.94 138.43) (xy 308.61 138.43)
+			(xy 281.94 138.43) (xy 307.34 138.43)
 		)
 		(stroke
 			(width 0)
@@ -10040,6 +10154,16 @@
 	)
 	(wire
 		(pts
+			(xy 254 138.43) (xy 255.27 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "91a83b69-362d-4378-9d6d-c0ce4142545d")
+	)
+	(wire
+		(pts
 			(xy 76.2 39.37) (xy 73.66 39.37)
 		)
 		(stroke
@@ -10190,6 +10314,16 @@
 	)
 	(wire
 		(pts
+			(xy 280.67 186.69) (xy 281.94 186.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9d1c8e1a-3f41-4e77-bed8-7d837f342c99")
+	)
+	(wire
+		(pts
 			(xy 60.96 81.28) (xy 62.23 81.28)
 		)
 		(stroke
@@ -10260,7 +10394,7 @@
 	)
 	(wire
 		(pts
-			(xy 281.94 162.56) (xy 308.61 162.56)
+			(xy 281.94 162.56) (xy 307.34 162.56)
 		)
 		(stroke
 			(width 0)
@@ -10460,6 +10594,16 @@
 	)
 	(wire
 		(pts
+			(xy 280.67 162.56) (xy 281.94 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b250fa5b-145b-4cf9-b8ed-e32111b582ec")
+	)
+	(wire
+		(pts
 			(xy 325.12 102.87) (xy 325.12 97.79)
 		)
 		(stroke
@@ -10517,6 +10661,16 @@
 			(type default)
 		)
 		(uuid "b4b9f72d-98af-434a-a080-98dd0f6f4461")
+	)
+	(wire
+		(pts
+			(xy 254 162.56) (xy 255.27 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b8f7e552-625f-4a39-9dd3-c49add1e9ee4")
 	)
 	(wire
 		(pts
@@ -10600,6 +10754,16 @@
 	)
 	(wire
 		(pts
+			(xy 248.92 186.69) (xy 254 186.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bf8b66cd-de86-4263-8692-db69b5049949")
+	)
+	(wire
+		(pts
 			(xy 119.38 228.6) (xy 119.38 229.87)
 		)
 		(stroke
@@ -10630,7 +10794,7 @@
 	)
 	(wire
 		(pts
-			(xy 328.93 181.61) (xy 247.65 181.61)
+			(xy 328.93 180.34) (xy 245.11 180.34)
 		)
 		(stroke
 			(width 0)
@@ -10810,7 +10974,7 @@
 	)
 	(wire
 		(pts
-			(xy 255.27 185.42) (xy 255.27 186.69)
+			(xy 248.92 185.42) (xy 248.92 186.69)
 		)
 		(stroke
 			(width 0)
@@ -10900,6 +11064,16 @@
 	)
 	(wire
 		(pts
+			(xy 307.34 162.56) (xy 308.61 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d84cc18e-e9f1-462b-bdb8-9e6df76dac1d")
+	)
+	(wire
+		(pts
 			(xy 341.63 82.55) (xy 344.17 82.55)
 		)
 		(stroke
@@ -10980,7 +11154,7 @@
 	)
 	(wire
 		(pts
-			(xy 255.27 161.29) (xy 255.27 162.56)
+			(xy 247.65 161.29) (xy 247.65 162.56)
 		)
 		(stroke
 			(width 0)
@@ -11130,7 +11304,7 @@
 	)
 	(wire
 		(pts
-			(xy 327.66 157.48) (xy 247.65 157.48)
+			(xy 327.66 156.21) (xy 245.11 156.21)
 		)
 		(stroke
 			(width 0)
@@ -11157,6 +11331,26 @@
 			(type default)
 		)
 		(uuid "f02ab0a0-ba2f-4a3c-8f94-30648fc8340e")
+	)
+	(wire
+		(pts
+			(xy 247.65 138.43) (xy 254 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f06d4b77-3ac0-4475-984b-11f169e57d8f")
+	)
+	(wire
+		(pts
+			(xy 247.65 162.56) (xy 254 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f1621fc4-5e6b-4b85-adc9-5855acc144f9")
 	)
 	(wire
 		(pts
@@ -14468,7 +14662,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "00288ae0-5d2a-4be5-921b-6f7c877b53d5")
-		(property "Reference" "#PWR029"
+		(property "Reference" "#PWR031"
 			(at 193.04 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -14529,7 +14723,7 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "#PWR029")
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
@@ -14706,7 +14900,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "03947983-63b2-400a-b537-61889907ee4b")
-		(property "Reference" "#PWR057"
+		(property "Reference" "#PWR066"
 			(at 185.42 261.62 0)
 			(hide yes)
 			(show_name no)
@@ -14766,7 +14960,7 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "#PWR057")
+					(reference "#PWR066")
 					(unit 1)
 				)
 			)
@@ -14784,7 +14978,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0394be7a-6f7f-4a0d-bcdc-c1bcf078bbda")
-		(property "Reference" "#PWR060"
+		(property "Reference" "#PWR069"
 			(at 205.74 275.59 0)
 			(hide yes)
 			(show_name no)
@@ -14844,7 +15038,7 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "#PWR060")
+					(reference "#PWR069")
 					(unit 1)
 				)
 			)
@@ -14862,7 +15056,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "052aa3c3-50c7-4839-805e-07a01633de29")
-		(property "Reference" "#PWR047"
+		(property "Reference" "#PWR058"
 			(at 119.38 232.41 0)
 			(hide yes)
 			(show_name no)
@@ -14922,7 +15116,7 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "#PWR047")
+					(reference "#PWR058")
 					(unit 1)
 				)
 			)
@@ -14940,7 +15134,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0a97900c-d1b4-4569-abb2-7ee639ab19b1")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR032"
 			(at 200.66 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -15001,7 +15195,7 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "#PWR030")
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -15019,7 +15213,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0bf25f10-80d0-437b-b205-a1faaa944db5")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR027"
 			(at 210.82 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -15080,7 +15274,7 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "#PWR025")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -15267,7 +15461,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1308ad76-0a79-412f-9570-4c12fe938e60")
-		(property "Reference" "#PWR055"
+		(property "Reference" "#PWR053"
 			(at 322.58 201.93 0)
 			(hide yes)
 			(show_name no)
@@ -15328,7 +15522,7 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "#PWR055")
+					(reference "#PWR053")
 					(unit 1)
 				)
 			)
@@ -15346,7 +15540,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "13219412-b27c-42ea-9005-9363b094ad36")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR033"
 			(at 182.88 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -15407,7 +15601,7 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "#PWR031")
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -15664,7 +15858,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "20e7de7a-0469-4f79-9cb1-1beccaa2a827")
-		(property "Reference" "#PWR052"
+		(property "Reference" "#PWR062"
 			(at 119.38 245.11 0)
 			(hide yes)
 			(show_name no)
@@ -15724,7 +15918,7 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "#PWR052")
+					(reference "#PWR062")
 					(unit 1)
 				)
 			)
@@ -15764,7 +15958,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_0805_2012Metric"
+		(property "Footprint" "jlc_kicad_footprint:IND-SMD_L2.0-W1.6_AOTA-B201610S3R3-101-T"
 			(at 39.37 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -15901,7 +16095,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "241e59e9-8c5c-487d-99ae-e6ffbba0dc03")
-		(property "Reference" "D8"
+		(property "Reference" "D11"
 			(at 165.1 242.57 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15963,7 +16157,7 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "D8")
+					(reference "D11")
 					(unit 1)
 				)
 			)
@@ -16043,6 +16237,85 @@
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
 					(reference "#PWR019")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 307.34 157.48 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2866f4fc-4f81-4e1b-9bf4-85f7d3f389cd")
+		(property "Reference" "#PWR042"
+			(at 313.69 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 311.15 157.4799 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 307.34 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 307.34 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 307.34 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "7c3701f5-3a2e-4315-b250-5c51ccf9f361")
+		)
+		(instances
+			(project "whitefox"
+				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -16137,6 +16410,88 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Small")
+		(at 307.34 184.15 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2bada16f-5e51-42cb-8b35-5103688f6489")
+		(property "Reference" "C28"
+			(at 309.88 182.8862 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 309.88 185.4262 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 307.34 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 307.34 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 307.34 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "885b1c4e-78d8-4be9-a572-d9bd417eac05")
+		)
+		(pin "1"
+			(uuid "0c0218c3-a08b-4c96-8f67-469d4670c3f0")
+		)
+		(instances
+			(project "whitefox"
+				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
+					(reference "C28")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 294.64 91.44 0)
 		(unit 1)
@@ -16148,7 +16503,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2c07d5fd-8dc3-4f51-a83c-c46d615080f9")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR022"
 			(at 294.64 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -16208,7 +16563,7 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "#PWR021")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -16304,7 +16659,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2c8ff1bb-d969-4e73-8df7-6091e21601a6")
-		(property "Reference" "D10"
+		(property "Reference" "D8"
 			(at 295.91 187.8898 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16374,7 +16729,7 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "D10")
+					(reference "D8")
 					(unit 1)
 				)
 			)
@@ -16738,7 +17093,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3ae1ef43-dd2a-4510-93da-2a90ee5e69d0")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR045"
 			(at 210.82 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -16799,7 +17154,86 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "#PWR036")
+					(reference "#PWR045")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 307.34 181.61 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3c0b1609-b1e4-41c6-80ef-a95529ffdbf2")
+		(property "Reference" "#PWR049"
+			(at 313.69 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 311.15 181.6099 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 307.34 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 307.34 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 307.34 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "2abe714c-1230-412f-9cde-aac0c3138f92")
+		)
+		(instances
+			(project "whitefox"
+				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
+					(reference "#PWR049")
 					(unit 1)
 				)
 			)
@@ -16898,7 +17332,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "42465acd-6891-442d-83b8-f7a55eace819")
-		(property "Reference" "D9"
+		(property "Reference" "D7"
 			(at 269.24 187.8898 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16968,7 +17402,7 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "D9")
+					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -17230,7 +17664,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "47955f85-7a79-4f66-a9f0-2359a8c81d9d")
-		(property "Reference" "#PWR044"
+		(property "Reference" "#PWR055"
 			(at 170.18 228.6 0)
 			(hide yes)
 			(show_name no)
@@ -17290,7 +17724,7 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "#PWR044")
+					(reference "#PWR055")
 					(unit 1)
 				)
 			)
@@ -17308,7 +17742,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "49b4a3b5-5989-428e-890d-687cde7d1a89")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR029"
 			(at 182.88 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -17369,7 +17803,7 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "#PWR027")
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -17967,7 +18401,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "542da1c4-462f-42f5-93fd-344a29b67653")
-		(property "Reference" "C18"
+		(property "Reference" "C17"
 			(at 336.55 76.2 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18031,15 +18465,15 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "C18")
+					(reference "C17")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "power:VBUS")
-		(at 255.27 185.42 0)
+		(lib_id "Device:C_Small")
+		(at 280.67 184.15 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18048,30 +18482,31 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "57bf5e57-b450-45dd-9618-f95b3bc47ec4")
-		(property "Reference" "#PWR049"
-			(at 255.27 189.23 0)
-			(hide yes)
+		(uuid "56b64e6d-1922-4e5e-9260-177df6e1c2e2")
+		(property "Reference" "C27"
+			(at 283.21 182.8862 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Value" "VBUS"
-			(at 255.27 180.34 0)
+		(property "Value" "100n"
+			(at 283.21 185.4262 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 255.27 185.42 0)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 280.67 184.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18082,7 +18517,169 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 255.27 185.42 0)
+			(at 280.67 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 280.67 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "0a05fd81-5629-4cbb-a254-4d0fc171014c")
+		)
+		(pin "1"
+			(uuid "b863bb15-e563-482b-850d-893411194dc3")
+		)
+		(instances
+			(project "whitefox"
+				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
+					(reference "C27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 254 135.89 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "56efa277-018d-4488-a2cd-8861d45edfb3")
+		(property "Reference" "C20"
+			(at 256.54 134.6262 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 256.54 137.1662 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 254 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 254 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 254 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "91f3ae36-823a-4165-a154-3ee99389fed3")
+		)
+		(pin "1"
+			(uuid "d87e40a0-d68e-4741-87be-19bdd4553195")
+		)
+		(instances
+			(project "whitefox"
+				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
+					(reference "C20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VBUS")
+		(at 248.92 185.42 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "57bf5e57-b450-45dd-9618-f95b3bc47ec4")
+		(property "Reference" "#PWR050"
+			(at 248.92 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "VBUS"
+			(at 248.92 181.61 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 248.92 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 248.92 185.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18093,7 +18690,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VBUS\""
-			(at 255.27 185.42 0)
+			(at 248.92 185.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18109,7 +18706,7 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "#PWR049")
+					(reference "#PWR050")
 					(unit 1)
 				)
 			)
@@ -18287,7 +18884,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5b72bcbf-81ea-43f6-894b-aa7e43d24a50")
-		(property "Reference" "#PWR042"
+		(property "Reference" "#PWR054"
 			(at 233.68 220.98 0)
 			(hide yes)
 			(show_name no)
@@ -18347,7 +18944,86 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "#PWR042")
+					(reference "#PWR054")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 280.67 157.48 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5d350930-c490-488a-87e5-af1270915384")
+		(property "Reference" "#PWR041"
+			(at 287.02 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 284.48 157.4799 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 280.67 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 280.67 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 280.67 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "32b45064-925b-4976-9444-5c017692e475")
+		)
+		(instances
+			(project "whitefox"
+				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
+					(reference "#PWR041")
 					(unit 1)
 				)
 			)
@@ -18541,7 +19217,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5d914c4b-fe40-4ac4-bd2a-69b73510d530")
-		(property "Reference" "#PWR034"
+		(property "Reference" "#PWR025"
 			(at 325.12 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -18601,7 +19277,7 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "#PWR034")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -18705,6 +19381,85 @@
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
 					(reference "U4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 254 133.35 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6082db65-6599-412d-85c7-93468665df18")
+		(property "Reference" "#PWR035"
+			(at 260.35 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 257.81 133.3499 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 254 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 254 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 254 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f0d8fd77-db2c-43fa-a859-23cef4235c38")
+		)
+		(instances
+			(project "whitefox"
+				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -18969,7 +19724,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "66b7a28b-cb93-4f34-a837-dae0af1892c5")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR023"
 			(at 182.88 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -19030,7 +19785,86 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "#PWR022")
+					(reference "#PWR023")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 254 157.48 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "68c9720c-21f6-4bbc-8755-83dc414a85b1")
+		(property "Reference" "#PWR040"
+			(at 260.35 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 257.81 157.4799 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 254 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 254 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 254 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "6f0d1950-fa67-41a8-a7c3-91380057d5a7")
+		)
+		(instances
+			(project "whitefox"
+				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)
@@ -19207,7 +20041,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6cbf2e57-d910-4fff-b07f-a69224bc326f")
-		(property "Reference" "#PWR033"
+		(property "Reference" "#PWR021"
 			(at 334.01 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -19267,7 +20101,7 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "#PWR033")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -19284,7 +20118,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6cc03d28-b6b0-48bc-be74-883338b2300e")
-		(property "Reference" "C21"
+		(property "Reference" "C30"
 			(at 205.74 231.14 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19348,7 +20182,7 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "C21")
+					(reference "C30")
 					(unit 1)
 				)
 			)
@@ -19365,7 +20199,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6dfd1704-08c5-4cc2-86c5-975a327efef8")
-		(property "Reference" "C20"
+		(property "Reference" "C29"
 			(at 259.08 229.87 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19429,7 +20263,7 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "C20")
+					(reference "C29")
 					(unit 1)
 				)
 			)
@@ -19681,7 +20515,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "73b4e71b-52d9-41d3-afff-0e039eb891bf")
-		(property "Reference" "#PWR059"
+		(property "Reference" "#PWR068"
 			(at 43.18 275.59 0)
 			(hide yes)
 			(show_name no)
@@ -19741,7 +20575,86 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "#PWR059")
+					(reference "#PWR068")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 280.67 181.61 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "77012f48-f8e7-4460-bec6-66a82dc8593d")
+		(property "Reference" "#PWR048"
+			(at 287.02 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 284.48 181.6099 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 280.67 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 280.67 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 280.67 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4f6dad49-fee7-49f2-aa3d-f35822c3a885")
+		)
+		(instances
+			(project "whitefox"
+				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
+					(reference "#PWR048")
 					(unit 1)
 				)
 			)
@@ -19759,7 +20672,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "79b6e4a5-4564-4138-b392-785ab361d91f")
-		(property "Reference" "#PWR050"
+		(property "Reference" "#PWR060"
 			(at 85.09 242.57 0)
 			(hide yes)
 			(show_name no)
@@ -19819,7 +20732,7 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "#PWR050")
+					(reference "#PWR060")
 					(unit 1)
 				)
 			)
@@ -19989,6 +20902,85 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+		(at 254 181.61 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "80b216f0-6ccc-4056-9a72-156523881d3d")
+		(property "Reference" "#PWR047"
+			(at 260.35 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 257.81 181.6099 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 254 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 254 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 254 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c7886f5f-9d5e-40a4-9991-fdb3722b55ef")
+		)
+		(instances
+			(project "whitefox"
+				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
+					(reference "#PWR047")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
 		(at 241.3 40.64 0)
 		(unit 1)
 		(body_style 1)
@@ -20077,7 +21069,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "80caafe0-674a-4f22-9151-b585b1cd043e")
-		(property "Reference" "#PWR038"
+		(property "Reference" "#PWR051"
 			(at 97.79 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -20137,7 +21129,7 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "#PWR038")
+					(reference "#PWR051")
 					(unit 1)
 				)
 			)
@@ -20154,7 +21146,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "84f61d0a-84a5-4118-ab40-ffd92c65b6dd")
-		(property "Reference" "C24"
+		(property "Reference" "C33"
 			(at 161.29 264.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20218,7 +21210,7 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "C24")
+					(reference "C33")
 					(unit 1)
 				)
 			)
@@ -20236,7 +21228,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "84ff34f3-0429-43f3-b4e1-eec702516a62")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR034"
 			(at 200.66 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -20297,7 +21289,7 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "#PWR032")
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -20477,7 +21469,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "86c356be-98d0-45e6-b5f7-7f559e110312")
-		(property "Reference" "#PWR043"
+		(property "Reference" "#PWR046"
 			(at 322.58 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -20538,7 +21530,7 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "#PWR043")
+					(reference "#PWR046")
 					(unit 1)
 				)
 			)
@@ -20722,7 +21714,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8d560af2-729b-42dc-9e32-899227980de8")
-		(property "Reference" "D11"
+		(property "Reference" "D9"
 			(at 322.58 187.8898 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20792,7 +21784,7 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "D11")
+					(reference "D9")
 					(unit 1)
 				)
 			)
@@ -20977,7 +21969,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8ead3795-dea8-45b1-8720-a25698f6238f")
-		(property "Reference" "#PWR058"
+		(property "Reference" "#PWR067"
 			(at 205.74 270.51 0)
 			(hide yes)
 			(show_name no)
@@ -21037,7 +22029,7 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "#PWR058")
+					(reference "#PWR067")
 					(unit 1)
 				)
 			)
@@ -21133,7 +22125,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "92156ce7-d8b3-4885-82c8-6627c788b908")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR044"
 			(at 182.88 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -21194,7 +22186,7 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "#PWR035")
+					(reference "#PWR044")
 					(unit 1)
 				)
 			)
@@ -21381,7 +22373,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "93afb6c0-9027-40a4-8149-510909bda173")
-		(property "Reference" "C22"
+		(property "Reference" "C31"
 			(at 95.25 232.41 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21445,7 +22437,7 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "C22")
+					(reference "C31")
 					(unit 1)
 				)
 			)
@@ -21462,7 +22454,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "953269ea-fc2f-4cc7-91df-66d245d6abda")
-		(property "Reference" "D7"
+		(property "Reference" "D10"
 			(at 213.36 222.25 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21537,7 +22529,7 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "D7")
+					(reference "D10")
 					(unit 1)
 				)
 			)
@@ -21555,7 +22547,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "984477fd-ad92-412b-8cd2-68e52161f6b5")
-		(property "Reference" "#PWR048"
+		(property "Reference" "#PWR059"
 			(at 156.21 232.41 0)
 			(hide yes)
 			(show_name no)
@@ -21615,7 +22607,7 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "#PWR048")
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -21695,6 +22687,88 @@
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
 					(reference "#PWR015")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 254 160.02 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9c4ca665-687a-4a25-9c91-c64a6fe8b7e0")
+		(property "Reference" "C23"
+			(at 256.54 158.7562 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 256.54 161.2962 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 254 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 254 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 254 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "54eeca6f-a567-41ca-86cd-708b34a76ed7")
+		)
+		(pin "1"
+			(uuid "bc672486-f1cd-41d0-8aa5-30f7444a3437")
+		)
+		(instances
+			(project "whitefox"
+				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
+					(reference "C23")
 					(unit 1)
 				)
 			)
@@ -21783,7 +22857,7 @@
 	)
 	(symbol
 		(lib_id "power:VBUS")
-		(at 255.27 137.16 0)
+		(at 247.65 137.16 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -21793,8 +22867,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9e1be6c2-f7b5-4faa-824c-2e78b36f838a")
-		(property "Reference" "#PWR037"
-			(at 255.27 140.97 0)
+		(property "Reference" "#PWR038"
+			(at 247.65 140.97 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21805,7 +22879,7 @@
 			)
 		)
 		(property "Value" "VBUS"
-			(at 255.27 132.08 0)
+			(at 247.65 132.08 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21815,7 +22889,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 255.27 137.16 0)
+			(at 247.65 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21826,7 +22900,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 255.27 137.16 0)
+			(at 247.65 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21837,7 +22911,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VBUS\""
-			(at 255.27 137.16 0)
+			(at 247.65 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21853,7 +22927,7 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "#PWR037")
+					(reference "#PWR038")
 					(unit 1)
 				)
 			)
@@ -21871,7 +22945,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a157329a-e939-4824-9324-b00b663523a1")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR024"
 			(at 212.09 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -21932,7 +23006,7 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "#PWR023")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -21950,7 +23024,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a7d12fea-258c-4aa3-86cc-900c4de18efd")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR026"
 			(at 182.88 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -22011,7 +23085,7 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "#PWR024")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -22098,7 +23172,7 @@
 	)
 	(symbol
 		(lib_id "power:VBUS")
-		(at 255.27 161.29 0)
+		(at 247.65 161.29 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -22106,10 +23180,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "aaf9462d-f499-45c2-8f8d-ad731ccd428b")
-		(property "Reference" "#PWR041"
-			(at 255.27 165.1 0)
+		(property "Reference" "#PWR043"
+			(at 247.65 165.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22120,7 +23193,7 @@
 			)
 		)
 		(property "Value" "VBUS"
-			(at 255.27 156.21 0)
+			(at 247.65 157.48 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22130,7 +23203,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 255.27 161.29 0)
+			(at 247.65 161.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22141,7 +23214,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 255.27 161.29 0)
+			(at 247.65 161.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22152,7 +23225,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VBUS\""
-			(at 255.27 161.29 0)
+			(at 247.65 161.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22168,7 +23241,7 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "#PWR041")
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -22186,7 +23259,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "abd8fcb0-718b-4c28-a69f-270f3a892b66")
-		(property "Reference" "#PWR061"
+		(property "Reference" "#PWR070"
 			(at 172.72 279.4 0)
 			(hide yes)
 			(show_name no)
@@ -22246,7 +23319,7 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "#PWR061")
+					(reference "#PWR070")
 					(unit 1)
 				)
 			)
@@ -22328,6 +23401,88 @@
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
 					(reference "C3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 307.34 135.89 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b41460f6-e47a-4d76-b065-4694a46947dd")
+		(property "Reference" "C22"
+			(at 309.88 134.6262 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 309.88 137.1662 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 307.34 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 307.34 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 307.34 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "0889f7e3-b69e-495d-986e-3a4f226a3ddf")
+		)
+		(pin "1"
+			(uuid "6375c712-326c-4788-a5ad-fb1f37f27a7a")
+		)
+		(instances
+			(project "whitefox"
+				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
+					(reference "C22")
 					(unit 1)
 				)
 			)
@@ -22426,7 +23581,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b8aa289c-9d04-49f1-890c-0485c77fabd9")
-		(property "Reference" "#PWR039"
+		(property "Reference" "#PWR052"
 			(at 198.12 201.93 0)
 			(hide yes)
 			(show_name no)
@@ -22486,7 +23641,7 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "#PWR039")
+					(reference "#PWR052")
 					(unit 1)
 				)
 			)
@@ -22504,7 +23659,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bc367bb2-79b7-409f-b0a9-418b147e45e4")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR030"
 			(at 210.82 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -22565,7 +23720,86 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "#PWR028")
+					(reference "#PWR030")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 307.34 133.35 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bd486a4d-6793-4661-8835-42d19f1f4ffa")
+		(property "Reference" "#PWR037"
+			(at 313.69 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 311.15 133.3499 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 307.34 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 307.34 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 307.34 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "389986fd-619d-4491-a89e-607d48563293")
+		)
+		(instances
+			(project "whitefox"
+				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -22647,6 +23881,88 @@
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
 					(reference "C11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 307.34 160.02 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c06d9fe1-20fb-4f84-93d5-024cd482629c")
+		(property "Reference" "C25"
+			(at 309.88 158.7562 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 309.88 161.2962 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 307.34 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 307.34 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 307.34 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "80881b85-a660-4dc5-b5bf-b78664129219")
+		)
+		(pin "1"
+			(uuid "b44d4f26-721d-48b3-a3a6-e4eb2f41a716")
+		)
+		(instances
+			(project "whitefox"
+				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
+					(reference "C25")
 					(unit 1)
 				)
 			)
@@ -22774,7 +24090,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c238e60b-94b5-4e39-8014-db8343e7a3e3")
-		(property "Reference" "#PWR051"
+		(property "Reference" "#PWR061"
 			(at 92.71 245.11 0)
 			(hide yes)
 			(show_name no)
@@ -22834,7 +24150,7 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "#PWR051")
+					(reference "#PWR061")
 					(unit 1)
 				)
 			)
@@ -23091,7 +24407,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cd262538-54bf-4658-8388-59449b3f9336")
-		(property "Reference" "#PWR056"
+		(property "Reference" "#PWR065"
 			(at 256.54 256.54 0)
 			(hide yes)
 			(show_name no)
@@ -23151,7 +24467,7 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "#PWR056")
+					(reference "#PWR065")
 					(unit 1)
 				)
 			)
@@ -23169,7 +24485,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cef0c406-1b05-48f0-9bca-c25e18637806")
-		(property "Reference" "#PWR054"
+		(property "Reference" "#PWR064"
 			(at 156.21 247.65 0)
 			(hide yes)
 			(show_name no)
@@ -23229,7 +24545,7 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "#PWR054")
+					(reference "#PWR064")
 					(unit 1)
 				)
 			)
@@ -23400,6 +24716,88 @@
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
 					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 254 184.15 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d1d40d3d-dabb-471f-a841-0decec9f022a")
+		(property "Reference" "C26"
+			(at 256.54 182.8862 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 256.54 185.4262 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 254 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 254 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 254 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "e644a1ec-153f-44e8-aaa1-69db2988c3b9")
+		)
+		(pin "1"
+			(uuid "4e74fe3b-28b4-4627-b425-50606234b889")
+		)
+		(instances
+			(project "whitefox"
+				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
+					(reference "C26")
 					(unit 1)
 				)
 			)
@@ -23621,7 +25019,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d8a40de9-6cd8-40ff-ab9c-b634a0720e25")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR028"
 			(at 275.59 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -23681,7 +25079,89 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "#PWR026")
+					(reference "#PWR028")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 280.67 135.89 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d972926b-b9cb-40fd-9334-db4fc9039d40")
+		(property "Reference" "C21"
+			(at 283.21 134.6262 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 283.21 137.1662 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 280.67 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 280.67 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 280.67 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "be189805-7ef2-4644-853f-45936819c06b")
+		)
+		(pin "1"
+			(uuid "ab6fd8d0-accf-45a5-b74b-746a4d11174f")
+		)
+		(instances
+			(project "whitefox"
+				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
+					(reference "C21")
 					(unit 1)
 				)
 			)
@@ -23699,7 +25179,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dc22024f-3871-4241-9616-32f5284d1503")
-		(property "Reference" "#PWR040"
+		(property "Reference" "#PWR039"
 			(at 322.58 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -23760,7 +25240,7 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "#PWR040")
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -24096,7 +25576,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e5d5947d-cab6-4f2a-b5f8-cb2cd56eb40d")
-		(property "Reference" "C23"
+		(property "Reference" "C32"
 			(at 121.92 232.41 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24160,7 +25640,7 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "C23")
+					(reference "C32")
 					(unit 1)
 				)
 			)
@@ -24333,7 +25813,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ec6070dc-e723-49e7-9dfe-b54e74c084cb")
-		(property "Reference" "C25"
+		(property "Reference" "C34"
 			(at 187.96 264.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24397,7 +25877,7 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "C25")
+					(reference "C34")
 					(unit 1)
 				)
 			)
@@ -24415,7 +25895,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ed45bedf-f032-4599-b30d-301a681b8dcc")
-		(property "Reference" "#PWR046"
+		(property "Reference" "#PWR057"
 			(at 85.09 232.41 0)
 			(hide yes)
 			(show_name no)
@@ -24475,7 +25955,7 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "#PWR046")
+					(reference "#PWR057")
 					(unit 1)
 				)
 			)
@@ -24719,6 +26199,88 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Small")
+		(at 280.67 160.02 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f6609886-49a2-4eae-9993-0e06a6adc2d0")
+		(property "Reference" "C24"
+			(at 283.21 158.7562 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 283.21 161.2962 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 280.67 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 280.67 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 280.67 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "fed6b6e5-ff8a-4ade-9df6-89fb4f021573")
+		)
+		(pin "1"
+			(uuid "eb9b55dd-a3d6-4cfe-8455-cb2d7bc98b91")
+		)
+		(instances
+			(project "whitefox"
+				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
+					(reference "C24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+BATT")
 		(at 260.35 227.33 0)
 		(unit 1)
@@ -24730,7 +26292,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fa7a9e45-20ec-4091-bcf8-73ae137a8b55")
-		(property "Reference" "#PWR045"
+		(property "Reference" "#PWR056"
 			(at 260.35 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -24790,7 +26352,86 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "#PWR045")
+					(reference "#PWR056")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 280.67 133.35 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fa85ff1a-2884-4ccc-acb7-8a1c8f2b3970")
+		(property "Reference" "#PWR036"
+			(at 287.02 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 284.48 133.3499 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 280.67 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 280.67 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 280.67 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "6c2eadf0-6ebd-4379-bbf2-713f42c0698b")
+		)
+		(instances
+			(project "whitefox"
+				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -24808,7 +26449,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fd571d89-a748-44c4-84fa-b2b626d7d570")
-		(property "Reference" "#PWR053"
+		(property "Reference" "#PWR063"
 			(at 106.68 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -24868,7 +26509,7 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "#PWR053")
+					(reference "#PWR063")
 					(unit 1)
 				)
 			)
@@ -24885,7 +26526,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fffb1961-04a9-4353-a3c4-05f8fff3f8ad")
-		(property "Reference" "C17"
+		(property "Reference" "C18"
 			(at 297.18 86.36 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24949,7 +26590,7 @@
 		(instances
 			(project "whitefox"
 				(path "/ca131289-aafd-4bc9-b2c5-bbdefb60a1d6"
-					(reference "C17")
+					(reference "C18")
 					(unit 1)
 				)
 			)
